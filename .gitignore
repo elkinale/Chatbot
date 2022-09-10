@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Documents
+checkpoint
+model*
+training_data
+tflearn_logs/
